@@ -1,4 +1,3 @@
-# sarcasm-vibe-detector[Sarcasm Vibe Detector (Tiny BERT + dendrites). Maximally Vibe. .md](https://github.com/user-attachments/files/24356583/Sarcasm.Vibe.Detector.Tiny.BERT.%2B.dendrites.Maximally.Vibe.md)
 **🎭 Sarcasm Vibe Detector**
 
 ### **Hinglish Sarcasm Detection with Tiny BERT \+ Dendritic Optimization (PerforatedAI)**
