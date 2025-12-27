@@ -1,4 +1,4 @@
-**🎭 Sarcasm Vibe Detector**
+# **🎭 Sarcasm Vibe Detector**
 
 ### **Hinglish Sarcasm Detection with Tiny BERT \+ Dendritic Optimization (PerforatedAI)**
 
